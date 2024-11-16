@@ -1,5 +1,1 @@
-To build the project, run the following:
-```
-$ coq_makefile -f _CoqProject -o CoqMakefile
-$ make -f CoqMakefile
-```
+잡다한 증명 연습들
